@@ -52,7 +52,7 @@
                     <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
                     <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
                     <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-                    <a href="https://www.apollographql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apollo/apollo-original-wordmark.svg" alt="Apollo Server" height="50" /></a>
+                    <a href="https://www.apollographql.com/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/apollo/apollo-original-wordmark.svg](https://www.apollographql.com/images/logo-apollo.svg)" alt="Apollo Server" height="50" /></a>
                 </div>
             </td>
         </tr>
@@ -83,7 +83,7 @@
                 <h3>3D & Animation</h3>
                 <div>
                     <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" height="50" /></a>
-                    <a href="https://greensock.com/gsap/" target="_blank"><img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" alt="GSAP" height="50" /></a>
+                    <a href="https://greensock.com/gsap/" target="_blank"><img src="[https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg](https://www.greensock.com/wp-content/uploads/2018/10/gsap-logo.svg)" alt="GSAP" height="50" /></a>
                 </div>
             </td>
             <td valign="top" width="30%">
