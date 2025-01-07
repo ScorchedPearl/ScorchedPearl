@@ -74,7 +74,6 @@
 <h2> Github Stats </h2>
 <div align="center">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=scorchedpearl&show_icons=true&locale=en&theme=tokyonight" alt="scorchedpearl" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scorchedpearl&theme=tokyonight" alt="scorchedpearl" /></p>
 </div>
 
 <hr>
