@@ -52,7 +52,6 @@
                     <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
                     <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
                     <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-                    <a href="https://www.apollographql.com/" target="_blank"><img src="https://www.apollographql.com/images/logo-apollo.svg" alt="Apollo Server" height="50" /></a>
                 </div>
             </td>
         </tr>
@@ -83,7 +82,6 @@
                 <h3>3D & Animation</h3>
                 <div>
                     <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" height="50" /></a>
-                    <a href="https://greensock.com/gsap/" target="_blank"><img src="https://www.greensock.com/wp-content/uploads/2018/10/gsap-logo.svg" alt="GSAP" height="50" /></a>
                 </div>
             </td>
             <td valign="top" width="30%">
@@ -96,8 +94,6 @@
                 <h3>Animations & UI</h3>
                 <div>
                     <a href="https://www.framer.com/motion/" target="_blank"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" height="50" /></a>
-                    <!-- Added React Query Logo -->
-                    <a href="https://tanstack.com/query" target="_blank"><img src="https://react-query.tanstack.com/_next/static/media/react-query-logo.05a3899e.svg" alt="React Query" height="50" /></a>
                 </div>
             </td>
         </tr>
