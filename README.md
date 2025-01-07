@@ -105,4 +105,8 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=scorchedpearl&show_icons=true&locale=en&theme=tokyonight" alt="scorchedpearl" /></p>
 </div>
 
+## Visitor Count
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=scorchedpearl.scorchedpearl)
+
 <hr>
