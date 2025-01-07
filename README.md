@@ -107,6 +107,9 @@
 
 ## Visitor Count
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=scorchedpearl.scorchedpearl)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=scorchedpearl&label=Visitors">
+  <img src="https://img.shields.io/github/followers/scorchedpearl.svg?style=social&label=Follow&maxAge=2592000">
+</div>
 
 <hr>
