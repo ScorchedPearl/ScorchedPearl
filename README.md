@@ -41,6 +41,7 @@
                     <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
                     <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /></a>
                     <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="50" /></a>
+                    <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50" /></a>
                 </div>
             </td>
             <td valign="top" width="30%">
@@ -50,6 +51,8 @@
                     <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
                     <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
                     <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+                    <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+                    <a href="https://www.apollographql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apollo/apollo-original-wordmark.svg" alt="Apollo Server" height="50" /></a>
                 </div>
             </td>
         </tr>
@@ -75,9 +78,29 @@
                 </div>
             </td>
         </tr>
+        <tr>
+            <td valign="top" width="30%">
+                <h3>3D & Animation</h3>
+                <div>
+                    <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" height="50" /></a>
+                    <a href="https://greensock.com/gsap/" target="_blank"><img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" alt="GSAP" height="50" /></a>
+                </div>
+            </td>
+            <td valign="top" width="30%">
+                <h3>Real-Time Communication</h3>
+                <div>
+                    <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" height="50" /></a>
+                </div>
+            </td>
+            <td valign="top" width="30%">
+                <h3>Animations & UI</h3>
+                <div>
+                    <a href="https://www.framer.com/motion/" target="_blank"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" height="50" /></a>
+                </div>
+            </td>
+        </tr>
     </table>
 </div>
-
 
 <h2> Github Stats </h2>
 <div align="center">
@@ -85,4 +108,3 @@
 </div>
 
 <hr>
-   
