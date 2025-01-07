@@ -71,7 +71,6 @@
 
 </td></tr></table>
 
-<h2> Contribution Graph </h2>
 <h2> Github Stats </h2>
 <div align="center">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=scorchedpearl&show_icons=true&locale=en&theme=tokyonight" alt="scorchedpearl" /></p>
