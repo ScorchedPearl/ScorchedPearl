@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [pearl3-d.vercel.app](https://pearl3-d.vercel.app)
 - 📫 How to reach me: **vishwasphawa@gmail.com**
 
-## Connect with me 🤝
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 <p align="center">
     <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwas-pahwa-694928328" height="30" width="40" />
@@ -59,7 +59,6 @@
 ### Tools  
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/GitLab_Logo.svg" alt="GitLab" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -80,14 +79,4 @@
 </div>
 
 <hr>
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="center">
-    <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="_blank">
-        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
-    </a>
-    <a href="https://github.com/ScorchedPearl" target="_blank">
-        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" />
-    </a>
-    <a href="https://instagram.com/vishwas.16_0" target="_blank">
-        <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" />
    
