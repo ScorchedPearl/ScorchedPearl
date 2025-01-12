@@ -79,18 +79,19 @@
         </tr>
         <tr>
             <td valign="top" width="30%">
-                <h3>3D & Animation</h3>
-                <div>
-                    <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" height="50" /></a>
+             <h3>3D & Animation</h3>
+<div>
+    <a href="https://threejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" height="50" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(100%) contrast(100%);" />
+    </a>
+</div>
+
+<h3>Real-Time Communication</h3>
+<div>
+    <a href="https://socket.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" height="50" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(100%) contrast(100%);" />
+    </a>
                 </div>
-            </td>
-            <td valign="top" width="30%">
-                <h3>Real-Time Communication</h3>
-                <div>
-                    <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" height="50" /></a>
-                </div>
-            </td>
-            <td valign="top" width="30%">
                 <h3>Animations & UI</h3>
                 <div>
                     <a href="https://www.framer.com/motion/" target="_blank"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" height="50" /></a>
