@@ -17,11 +17,11 @@
 </div>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-<div align="center" style="display: flex; justify-content: center; gap: 15px; background: rgba(0, 188, 212, 0.1); padding: 10px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3);">
-    <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="_blank" style="text-decoration: none;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; background: linear-gradient(135deg, rgba(0, 188, 212, 0.3), rgba(0, 188, 212, 0.6)); padding: 15px; border-radius: 15px; box-shadow: 0 6px 20px rgba(0, 188, 212, 0.4);">
+    <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="_blank" style="text-decoration: none; transition: transform 0.3s ease-in-out;">
         <img src="https://img.shields.io/badge/LinkedIn-00bcd4?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/vishwas.16_0" target="_blank" style="text-decoration: none;">
+    <a href="https://instagram.com/vishwas.16_0" target="_blank" style="text-decoration: none; transition: transform 0.3s ease-in-out;">
         <img src="https://img.shields.io/badge/Instagram-00bcd4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </div>
