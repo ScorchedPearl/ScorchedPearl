@@ -27,8 +27,31 @@
 </div>
 
 ## My Skill Set
-<div align="center" style="background: rgba(0, 188, 212, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3);">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart,html,css,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,figma,graphql,threejs,p5js,postman,prisma,redis,redux,supabase,vite" />
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 15px; background: rgba(0, 188, 212, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3);">
+    <div>
+        <h3>Languages</h3>
+        <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" />
+    </div>
+    <div>
+        <h3>Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
+    </div>
+    <div>
+        <h3>Backend</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,websocket" />
+    </div>
+    <div>
+        <h3>Databases</h3>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,supabase,prisma" />
+    </div>
+    <div>
+        <h3>Dev Tools</h3>
+        <img src="https://skillicons.dev/icons?i=turborepo,postman,vite,redux" />
+    </div>
+    <div>
+        <h3>Animation & 3D</h3>
+        <img src="https://skillicons.dev/icons?i=threejs,gsap,p5js" />
+    </div>
 </div>
 
 ## Github Stats
