@@ -28,7 +28,7 @@
 
 ## My Skill Set
 <div align="center" style="background: rgba(0, 188, 212, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3);">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart,html,css,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,figma,graphql,turborepo,socket.io,threejs,gsap,p5js,postman,prisma,redis,redux,supabase,vite" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart,html,css,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,figma,graphql,threejs,p5js,postman,prisma,redis,redux,supabase,vite" />
 </div>
 
 ## Github Stats
