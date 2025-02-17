@@ -17,14 +17,14 @@
 </div>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-<p align="center">
-    <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="_blank">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; background: rgba(0, 188, 212, 0.1); padding: 10px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3);">
+    <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-00bcd4?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/vishwas.16_0" target="_blank">
+    <a href="https://instagram.com/vishwas.16_0" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-00bcd4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-</p>
+</div>
 
 ## My Skill Set
 <div align="center" style="background: rgba(0, 188, 212, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3);">
