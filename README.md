@@ -30,15 +30,15 @@
 <div align="center">
     <table style="width: 100%; text-align: center; border-spacing: 10px;">
         <tr>
-            <td valign="top" width="90%">
+            <td valign="top" width="30%" colspan="3">
                 <h3>Languages</h3>
-                <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,dart" />
+                <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,dart" />
             </td>
         </tr>
         <tr>
             <td valign="top" width="30%">
                 <h3>Cloud & DevOps</h3>
-                <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,docker" />
+                <img src="https://skillicons.dev/icons?i=aws,vercel" />
             </td>
             <td valign="top" width="30%">
                 <h3>Databases</h3>
@@ -46,7 +46,7 @@
             </td>
             <td valign="top" width="30%">
                 <h3>Tools</h3>
-                <img src="https://skillicons.dev/icons?i=turborepo,postman,vite,redux" />
+                <img src="https://skillicons.dev/icons?i=postman,vite,redux,pnpm,yarn" />
             </td>
         </tr>
         <tr>
