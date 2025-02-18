@@ -7,10 +7,11 @@
 </h1>
 
 
-
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Student+from+India;Web+Developer;Currently+learning+WebDev&center=true&size=20&color=00bcd4&font-family=Poppins">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Awesome+Projects;Crafting+Intuitive+UI/UX;Exploring+the+Tech+World;Evolving+as+a+Developer;&center=true&size=20&color=00bcd4&font-family=Poppins">
 </h1>
+
+
 
 <div style="background: rgba(0, 188, 212, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3); font-family: 'Poppins', sans-serif;">
 <ul style="list-style-type: none; padding-left: 0;">
