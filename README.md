@@ -2,6 +2,11 @@
     Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Vishwas Pahwa
 </h1>
 
+<div align="right" style="margin-top: -40px;">
+    <img src="https://komarev.com/ghpvc/?username=scorchedpearl&label=Visitors&color=00bcd4">
+    <img src="https://img.shields.io/github/followers/scorchedpearl.svg?style=social&label=Follow">
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Student+from+India;Web+Developer;Currently+learning+WebDev&center=true&size=20&color=00bcd4">
 </h1>
@@ -16,13 +21,19 @@
 </ul>
 </div>
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-<div align="center" style="display: flex; justify-content: center; gap: 20px; background: linear-gradient(135deg, rgba(0, 188, 212, 0.3), rgba(0, 188, 212, 0.6)); padding: 15px; border-radius: 15px; box-shadow: 0 6px 20px rgba(0, 188, 212, 0.4);">
-    <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="_blank" style="text-decoration: none; transition: transform 0.3s ease-in-out;">
+## Connect with Me  
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 15px; border-radius: 15px; background: linear-gradient(135deg, rgba(0, 188, 212, 0.2), rgba(0, 188, 212, 0.4)); box-shadow: 0 6px 20px rgba(0, 188, 212, 0.4);">
+    <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-00bcd4?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/vishwas.16_0" target="_blank" style="text-decoration: none; transition: transform 0.3s ease-in-out;">
+    <a href="https://instagram.com/vishwas.16_0" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-00bcd4?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:vishwasphawa@gmail.com">
+        <img src="https://img.shields.io/badge/Email-00bcd4?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/ScorchedPearl" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-00bcd4?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </div>
 
@@ -66,16 +77,9 @@
     </table>
 </div>
 
-
 ## Github Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=scorchedpearl&show_icons=true&theme=radical" />
-</div>
-
-## Visitor Count
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=scorchedpearl&label=Visitors&color=00bcd4">
-  <img src="https://img.shields.io/github/followers/scorchedpearl.svg?style=social&label=Follow">
 </div>
 
 <hr style="border: 1px solid rgba(0, 188, 212, 0.5);">
