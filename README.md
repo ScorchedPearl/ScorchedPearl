@@ -82,7 +82,8 @@
 </div>
 
 ## Github Stats
-<div align="center" style="display:flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=scorchedpearl&show_icons=true&theme=radical" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=scorchedpearl&theme=radical" />
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 20px; overflow-x: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=scorchedpearl&show_icons=true&theme=radical" style="max-width: 48%; min-width: 300px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=scorchedpearl&theme=radical" style="max-width: 48%; min-width: 300px;"/>
 </div>
+
