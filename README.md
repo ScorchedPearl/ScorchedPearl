@@ -24,20 +24,22 @@
 </div>
 
 ## Connect with Me  
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, rgba(0, 188, 212, 0.2), rgba(0, 188, 212, 0.4)); box-shadow: 0 6px 20px rgba(0, 188, 212, 0.4);">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, rgba(0, 188, 212, 0.2), rgba(0, 188, 212, 0.4)); box-shadow: 0 6px 20px rgba(0, 188, 212, 0.4);">
     <a href="https://linkedin.com/in/vishwas-pahwa-694928328" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-00bcd4?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://instagram.com/vishwas.16_0" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-00bcd4?style=for-the-badge&logo=instagram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="mailto:vishwasphawa@gmail.com">
-        <img src="https://img.shields.io/badge/Email-00bcd4?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/ScorchedPearl" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-00bcd4?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </div>
+
+
 
 ## My Skill Set
 <div align="center">
