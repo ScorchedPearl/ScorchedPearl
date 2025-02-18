@@ -30,17 +30,9 @@
 <div align="center">
     <table style="width: 100%; text-align: center; border-spacing: 10px;">
         <tr>
-            <td valign="top" width="30%">
+            <td valign="top" width="90%">
                 <h3>Languages</h3>
                 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,dart" />
-            </td>
-            <td valign="top" width="30%">
-                <h3>Web Development</h3>
-                <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
-            </td>
-            <td valign="top" width="30%">
-                <h3>Backend Technologies</h3>
-                <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,websocket" />
             </td>
         </tr>
         <tr>
@@ -60,15 +52,15 @@
         <tr>
             <td valign="top" width="30%">
                 <h3>3D & Animation</h3>
-                <img src="https://skillicons.dev/icons?i=threejs,gsap,p5js" />
+                <img src="https://skillicons.dev/icons?i=threejs,p5js" />
             </td>
             <td valign="top" width="30%">
-                <h3>Real-Time Communication</h3>
-                <img src="https://skillicons.dev/icons?i=websocket,socketio" />
+                <h3>Web Development</h3>
+                <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
             </td>
             <td valign="top" width="30%">
-                <h3>Animations & UI</h3>
-                <img src="https://skillicons.dev/icons?i=framer,gsap" />
+                <h3>Backend Technologies</h3>
+                <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,websocket" />
             </td>
         </tr>
     </table>
