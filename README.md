@@ -47,17 +47,17 @@
         <tr>
             <td valign="top" width="30%" colspan="3">
                 <h3 style="color: #00bcd4;">Languages</h3>
-                <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,dart" />
+                <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,dart,java" />
             </td>
         </tr>
         <tr>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Cloud & DevOps</h3>
-                <img src="https://skillicons.dev/icons?i=aws,vercel" />
+                <img src="https://skillicons.dev/icons?i=aws,vercel,docker" />
             </td>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Databases</h3>
-                <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,supabase,prisma" />
+                <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,supabase,datastax" />
             </td>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Tools</h3>
@@ -75,7 +75,7 @@
             </td>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Backend Technologies</h3>
-                <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,websocket" />
+                <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,websocket,spring,apollo,prisma,hiberante,maven" />
             </td>
         </tr>
     </table>
