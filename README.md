@@ -80,8 +80,11 @@
         </tr>
          <tr>
             <td valign="top" width="30%" colspan="3">
-                <h3 style="color: #00bcd4;">GenAI</h3>
-                <img src="https://skillicons.dev/icons?i=fastapi" />
+              <h3 style="color: #00bcd4;">GenAI</h3>
+              <div style="display: flex; align-items: center; gap: 10px;">
+                <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="40" />
+                <img src="https://your-image-host.com/langchain-logo.svg" alt="LangChain" height="40" />
+              </div>
             </td>
         </tr>
     </table>
