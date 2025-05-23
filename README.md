@@ -78,6 +78,12 @@
                 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,spring,apollo,prisma,hibernate,maven" />
             </td>
         </tr>
+         <tr>
+            <td valign="top" width="30%" colspan="3">
+                <h3 style="color: #00bcd4;">GenAI</h3>
+                <img src="https://skillicons.dev/icons?i=fastapi" />
+            </td>
+        </tr>
     </table>
 </div>
 
