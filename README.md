@@ -15,9 +15,9 @@
 
 <div style="background: rgba(0, 188, 212, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3); font-family: 'Poppins', sans-serif;">
 <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;">🔭 I’m currently working on <a href="[marcelpearl.pearl99z.tech](https://marcelpearl.pearl99z.tech/)" style="color: #00bcd4; text-decoration: none; font-weight: bold;">MarcelPearl</a></li>
+    <li style="margin-bottom: 10px;">🔭 I’m currently working on <a href="https://marcelpearl.pearl99z.tech/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">MarcelPearl</a></li>
     <li style="margin-bottom: 10px;">🌱 I’m currently learning <strong style="color: #00bcd4;">WebDev</strong></li>
-    <li style="margin-bottom: 10px;">☘️ A Social Media Website <a href="[pearlpost.pearl99z.tech](https://pearlpost.pearl99z.tech/)" style="color: #00bcd4; text-decoration: none; font-weight: bold;">PearlPost</a></li>
+    <li style="margin-bottom: 10px;">☘️ A Social Media Website <a href="https://pearlpost.pearl99z.tech/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">PearlPost</a></li>
     <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://pearl3-d.vercel.app" style="color: #00bcd4; text-decoration: none; font-weight: bold;">pearl3-d.vercel.app</a></li>
     <li style="margin-bottom: 10px;">📫 Reach me at: <strong style="color: #00bcd4;">vishwasphawa@gmail.com</strong></li>
     <li style="margin-bottom: 10px;">🏆 <span style="color: gold;">4⭐ CodeChef</span> | <span style="color: lightgreen;">Pupil💚:Codeforces</span></li>
