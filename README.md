@@ -92,8 +92,19 @@
 </div>
 
 ## Github Stats
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 20px; overflow-x: auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=scorchedpearl&show_icons=true&theme=radical" style="max-width: 48%; min-width: 300px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=scorchedpearl&theme=radical" style="max-width: 48%; min-width: 300px;"/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ScorchedPearl&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b7b7&icon_color=00b7b7&text_color=ffffff&include_all_commits=true" width="500"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git.io/streak-stats" title="Go to Source">
+        <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=ScorchedPearl&hide_border=true&background=0D1117&ring=00b7b7&fire=00b7b7&currStreakLabel=00b7b7&sideLabels=ffffff&dates=ffffff&sideNums=00b7b7&currStreakNum=ffffff"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
