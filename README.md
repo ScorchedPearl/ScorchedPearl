@@ -18,7 +18,7 @@
     <li style="margin-bottom: 10px;">🔭 I’m currently working on <a href="https://marcelpearl.pearl99z.tech/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">MarcelPearl</a></li>
     <li style="margin-bottom: 10px;">🌱 I’m currently learning <strong style="color: #00bcd4;">Machine-Learning</strong></li>
     <li style="margin-bottom: 10px;">☘️ A Social Media Website <a href="https://pearlpost.pearl99z.tech/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">PearlPost</a></li>
-    <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://pearl3-d.vercel.app" style="color: #00bcd4; text-decoration: none; font-weight: bold;">pearl3-d.vercel.app</a></li>
+    <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://pearl3d.pearl99z.tech" style="color: #00bcd4; text-decoration: none; font-weight: bold;">Pearl3D</a></li>
     <li style="margin-bottom: 10px;">📫 Reach me at: <strong style="color: #00bcd4;">vishwasphawa@gmail.com</strong></li>
     <li style="margin-bottom: 10px;">🏆 <span style="color: gold;">4⭐ CodeChef</span> | <span style="color: lightgreen;">Specialist🩵:Codeforces</span></li>
 </ul>
