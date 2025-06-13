@@ -90,7 +90,7 @@
              <td valign="top" width="30%" colspan="2">
               <h3 style="color: #00bcd4;">System Design</h3>
              <div style="display: flex; align-items: center; gap: 10px;">
-              <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" />
+              <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" height="40" />
             </div>
             </td>
         </tr>
