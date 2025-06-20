@@ -84,7 +84,7 @@
               <h3 style="color: #00bcd4;">GenAI</h3>
              <div style="display: flex; align-items: center; gap: 10px;">
               <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
-             <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="LangChain Logo" width="40" />
+             <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain Logo" width="40" />
                  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="Langgraph Logo" width="40" />
             </div>
             </td>
