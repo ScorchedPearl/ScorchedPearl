@@ -54,7 +54,7 @@
         <tr>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Cloud & DevOps</h3>
-                <img src="https://skillicons.dev/icons?i=aws,vercel,docker,nginx,gcp" />
+                <img src="https://skillicons.dev/icons?i=aws,vercel,docker,nginx,gcp,githubactions" />
             </td>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Databases</h3>
