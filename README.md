@@ -62,7 +62,7 @@
             </td>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Tools</h3>
-                <img src="https://skillicons.dev/icons?i=postman,vite,redux,pnpm,yarn,idea,pycharm,vscode" />
+                <img src="https://skillicons.dev/icons?i=postman,vite,bun,pnpm,yarn,idea,pycharm,vscode" />
             </td>
         </tr>
         <tr>
@@ -72,7 +72,7 @@
             </td>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Web Development</h3>
-                <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
+                <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,redux" />
             </td>
             <td valign="top" width="30%">
                 <h3 style="color: #00bcd4;">Backend Technologies</h3>
