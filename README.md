@@ -20,7 +20,7 @@
     <li style="margin-bottom: 10px;">☘️ A Social Media Website <a href="https://pearlpost.pearl99z.tech/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">PearlPost</a></li>
     <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://pholio.pearl99z.tech/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">Pearl</a></li>
     <li style="margin-bottom: 10px;">📫 Reach me at: <strong style="color: #00bcd4;">vishwasphawa@gmail.com</strong></li>
-    <li style="margin-bottom: 10px;">🏆 <span style="color: gold;">4⭐ CodeChef</span> | <span style="color: lightgreen;">Expert💙:Codeforces</span></li>
+    <li style="margin-bottom: 10px;">🏆 <span style="color: gold;">5⭐ CodeChef</span> | <span style="color: lightgreen;">Expert💙:Codeforces</span></li>
 </ul>
 </div>
 
